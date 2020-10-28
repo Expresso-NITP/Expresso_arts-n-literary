@@ -77,7 +77,8 @@ padding: 40px 40px 40px 40px ;
   /* For mobile phones: */
   .picture  {
      
-     padding: 15px  15px  15px  15px 
+    padding-left:15px;
+    padding-right:15px;
     width: 100%;
     height:100%;
   }
