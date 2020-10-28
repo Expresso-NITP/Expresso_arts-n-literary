@@ -72,7 +72,7 @@ padding: 40px 40px 40px 40px ;
   .row {
     flex-direction: column;
   }
- 
+}
 @media only screen and (max-width:500px) {
   /* For mobile phones: */
   .picture  {
@@ -83,7 +83,7 @@ padding: 40px 40px 40px 40px ;
     height:110%;
   }
 }
-}
+
   @media only screen and (max-width:800px) {
   /* For tab: */
   .picture  {
