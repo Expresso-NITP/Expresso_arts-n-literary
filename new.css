@@ -7,21 +7,18 @@
   text-align: center;
   margin-left:10px;
   padding-top:30px;
-  font-size:30px;
+  font-size:35px;
   color:#006666;
   text-shadow: 3px 3px 3px #000;
   }
 
-
-.book{
-   background-color:#006666;
-}
 .box{
 padding: 40px 40px 40px 40px ;
 
 }
 
 .book {
+   background-color:#006666;
     margin-bottom: 40px;
     transition: box-shadow .3s;
     margin-right: 0;
